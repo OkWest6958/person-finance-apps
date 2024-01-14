@@ -2,4 +2,3 @@ streamlit
 numpy
 numpy_financial
 pandas
-math
