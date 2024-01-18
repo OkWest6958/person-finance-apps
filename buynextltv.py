@@ -215,7 +215,7 @@ st.write(
 )
 
 st.write(
-    """\n* :green[£{:,.2f}] at your current LTV rate. (:green[£{:,.2f}] from the value of your house, 
+    """\n* :green[£{:,.2f}] at your next LTV rate. (:green[£{:,.2f}] from the value of your house, 
     :green[£{:,.2f}] from monthly mortgage repayment savings, and 
     :red[£{:,.2f}] from your remaining mortgage balance)""".format(next_ltv_net_worth,
                                                                    property_value,
